@@ -1,8 +1,9 @@
+![OpenSearch logo](OpenSearch.svg)
+
 [![Build & Test MapReduce](https://github.com/opensearch-project/opensearch-hadoop/actions/workflows/build-mr.yml/badge.svg?branch=main)](https://github.com/opensearch-project/opensearch-hadoop/actions/workflows/build-mr.yml)
 [![Build & Test Spark](https://github.com/opensearch-project/opensearch-hadoop/actions/workflows/build-spark.yml/badge.svg?branch=main)](https://github.com/opensearch-project/opensearch-hadoop/actions/workflows/build-spark.yml)
 [![Build & Test Hive](https://github.com/opensearch-project/opensearch-hadoop/actions/workflows/build-hive.yml/badge.svg?branch=main)](https://github.com/opensearch-project/opensearch-hadoop/actions/workflows/build-hive.yml)
 ![PRs welcome!](https://img.shields.io/badge/PRs-welcome!-success)
-![OpenSearch logo](OpenSearch.svg)
 
 # OpenSearch Hadoop
 OpenSearch real-time search and analytics natively integrated with Hadoop.
